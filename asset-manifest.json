@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/saraswathi-portfolio/static/css/main.11b38581.css",
+    "main.js": "/saraswathi-portfolio/static/js/main.021bb95c.js",
+    "static/media/woman-with-tablet.jpg": "/saraswathi-portfolio/static/media/woman-with-tablet.47b8633c9c57f62a7653.jpg",
+    "static/media/design-desk.jpeg": "/saraswathi-portfolio/static/media/design-desk.c1996f349dc2330e1096.jpeg",
+    "static/media/motion-background.jpg": "/saraswathi-portfolio/static/media/motion-background.162019996b695dde089a.jpg",
+    "static/media/instagram.svg": "/saraswathi-portfolio/static/media/instagram.318e6df2752736d3c45c33aed816ef9f.svg",
+    "static/media/github.svg": "/saraswathi-portfolio/static/media/github.4bc72f28e79178cdc9c76db0b22c501e.svg",
+    "static/media/devdott.svg": "/saraswathi-portfolio/static/media/devdott.0ff9f0d7b8ce0b5aa62e2f733495d83b.svg",
+    "static/media/linkedin.svg": "/saraswathi-portfolio/static/media/linkedin.36bd4fb37078da2bbffc9b70a0acc872.svg",
+    "index.html": "/saraswathi-portfolio/index.html",
+    "static/media/youtube.svg": "/saraswathi-portfolio/static/media/youtube.f5a3fbc126791c9789e222f96fca742f.svg",
+    "static/media/medium.svg": "/saraswathi-portfolio/static/media/medium.a73cd7178cc078152fd9eb34bd74f5ac.svg",
+    "static/media/down-arrow.svg": "/saraswathi-portfolio/static/media/down-arrow.91079b27aa77759d539380d0c831ab87.svg",
+    "static/media/envelope.svg": "/saraswathi-portfolio/static/media/envelope.33857507a5ba83c373a8c7d5f0d0c948.svg",
+    "static/media/twitter.svg": "/saraswathi-portfolio/static/media/twitter.1c3678286b6403f7869638e38a3913e6.svg",
+    "main.11b38581.css.map": "/saraswathi-portfolio/static/css/main.11b38581.css.map",
+    "main.021bb95c.js.map": "/saraswathi-portfolio/static/js/main.021bb95c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11b38581.css",
+    "static/js/main.021bb95c.js"
+  ]
+}
